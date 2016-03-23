@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Ultimate Plagiarism CheckerManifest.xml
+C:\Users\teja\documents\visual studio 2012\Projects\Ultimate Plagiarism Checker\bin\Debug\Ultimate Plagiarism Checker.debugapp
